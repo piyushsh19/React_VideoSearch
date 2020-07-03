@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-  view- https://gallant-mestorf-ab7359.netlify.app/
+  view- https://videosearchapi.netlify.app/
 
 ## Available Scripts
 
